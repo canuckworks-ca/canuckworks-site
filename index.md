@@ -13,8 +13,13 @@ This site is a living notebook:
 - what failed
 - what changed
 
-## Links
-- [Rules](./rules.html)
+## Audio test
+
+<audio controls>
+  <source src="./audio/test.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## Links
 - [Rules](./rules.html)
 - [Support](./support.html)
