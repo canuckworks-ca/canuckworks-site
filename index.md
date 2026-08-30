@@ -15,3 +15,6 @@ This site is a living notebook:
 
 ## Links
 - [Rules](./rules.html)
+## Links
+- [Rules](./rules.html)
+- [Support](./support.html)
